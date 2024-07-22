@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="77.895279mm"
+   height="70.514587mm"
+   viewBox="0 0 77.895279 70.514587"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="blueblob_icon.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.88551417"
+     inkscape:cx="37.266484"
+     inkscape:cy="150.19522"
+     inkscape:window-width="1574"
+     inkscape:window-height="1064"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid442" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.131746,-76.152097)">
+    <path
+       style="opacity:0.79023;fill:#004eb6;fill-opacity:0.99415201;stroke-width:1.233;stroke-opacity:1;stroke:#a3f5fd;stroke-dasharray:none"
+       d="m 90.256409,76.153845 c 15.971081,-0.134025 34.868771,7.436915 38.358971,22.564099 3.4902,15.127186 -16.12208,25.308636 -24.53845,32.435896 -8.416374,7.12726 -13.820522,15.51283 -13.820522,15.51283 0,0 -7.054727,-9.12196 -14.666666,-16.07693 C 67.977803,123.63477 47.761182,113.72273 51.615383,98.999996 55.469584,84.277266 74.28533,76.28787 90.256409,76.153845 Z"
+       id="path236"
+       sodipodi:nodetypes="zzzczzz"
+       inkscape:export-filename="blueblob_icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
